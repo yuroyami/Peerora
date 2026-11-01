@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="geometricPrecision" role="img" aria-label="Peerora small app icon">
+  <defs>
+    <linearGradient id="ribbon" x1="3.71875" y1="8" x2="12.28125" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64DDD8"/>
+      <stop offset="0.5" stop-color="#77AEE4"/>
+      <stop offset="1" stop-color="#8C66F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="16" height="16" fill="#0A142B"/>
+  <path fill="url(#ribbon)" d="M3.71875 7.734375 C4.625 7.203125 5.53125 6.671875 6.515625 6.75 C7.8125 6.75 8.640625 7.734375 9.78125 8.265625 C10.84375 8.875 11.59375 8.421875 12.28125 7.734375 L12.28125 8.1875 C11.53125 9.03125 10.84375 9.40625 9.78125 9.171875 C8.5625 9.015625 7.65625 8.109375 6.515625 7.8125 C5.53125 7.515625 4.703125 7.8125 3.71875 8.265625 Z"/>
+  <circle cx="2.390625" cy="8" r="1.484375" fill="#64DDD8"/>
+  <circle cx="13.609375" cy="8" r="1.484375" fill="#64DDD8"/>
+</svg>

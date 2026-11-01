@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Peerora responsive app mark</title>
+  <desc id="desc">The compact equal-peer ribbon, optimized for square app-icon tiles.</desc>
+  <defs>
+    <linearGradient id="ribbon" x1="238" y1="512" x2="786" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64DDD8"/>
+      <stop offset="0.30" stop-color="#69D4DE"/>
+      <stop offset="0.48" stop-color="#77AEE4"/>
+      <stop offset="0.64" stop-color="#8289ED"/>
+      <stop offset="0.82" stop-color="#886CF4"/>
+      <stop offset="1" stop-color="#8C66F7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ribbon)" d="M238 495 C296 461 354 427 417 432 C500 432 553 495 626 529 C694 568 742 539 786 495 L786 524 C738 578 694 602 626 587 C548 577 490 519 417 500 C354 481 301 500 238 529 Z"/>
+  <circle cx="153" cy="512" r="95" fill="#64DDD8"/>
+  <circle cx="871" cy="512" r="95" fill="#64DDD8"/>
+</svg>

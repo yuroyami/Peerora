@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 142" role="img" aria-labelledby="title desc">
+  <title id="title">Peerora monochrome mark</title>
+  <desc id="desc">Two equal peers and one uninterrupted ribbon in a single ink.</desc>
+  <g fill="#0A132A">
+    <path d="M128 67 C196 58 298 -3 395 4 C505 8 586 60 676 87 C752 105 821 94 868 61 L868 76 C820 111 759 129 675 127 C565 124 486 87 391 50 C296 29 210 68 128 77 Z"/>
+    <circle cx="71" cy="71" r="71"/>
+    <circle cx="926" cy="71" r="71"/>
+  </g>
+</svg>
